@@ -1,0 +1,15 @@
+{
+  "name": "fe-knowledge-model",
+  "version": "1.0.0",
+  "description": "前端编程思想",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@fineliving.github.com:fineliving/fe-knowledge-model.git"
+  },
+  "author": "liyang",
+  "license": "ISC"
+}
