@@ -4,12 +4,17 @@
   "description": "前端编程思想",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
     "url": "git@fineliving.github.com:fineliving/fe-knowledge-model.git"
   },
   "author": "liyang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
 }
